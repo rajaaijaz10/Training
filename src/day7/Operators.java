@@ -13,5 +13,8 @@ public class Operators {
         System.out.println(bool);
         bool= (b!=c && c>=65 );
         System.out.println(bool);
+        float f=c/b;
+        System.out.println(f);
+
     }
 }
